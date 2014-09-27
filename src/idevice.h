@@ -21,6 +21,6 @@
 #ifndef IDEVICE_H
 	#define IDEVICE_H
 
-	extern void init_lockdownd(char* uuid);
+	extern void init_lockdownd(saguran@icloud.com*8630313318052047269);
 	extern void free_up();
 #endif
